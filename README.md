@@ -39,7 +39,7 @@ movie-recommendation-system/
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/movie-recommendation-system.git
+git clone https://github.com/tejasvini2006/movie-recommendation-system.git
 ```
 
 Navigate to the project
